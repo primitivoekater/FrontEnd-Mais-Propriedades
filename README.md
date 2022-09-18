@@ -6,13 +6,7 @@
 <div>
 <div><p1> 
 
- No primeiro exercício era necessário criar uma lista de supermercado, utilizando construtores básicos da estrutura HTML como h1,span,ul, etc..<br>
-
-
- No segundo exercício, utilizamos como base um texto de receita de lasanha à bolonhesa e criei a estrutura pra organizar as informações com títulos, listas, parágrafos.<br> 
-
-
- No terceiro e último exercício, foram listadas e descritas minhas 3 series televisivas favoritas. </p1></div>
+Serie com 5 exercicios onde foram  apresentadas novas propriedades, como a criação de botes, cards,  e imagens </p1></div>
  
 ##                                                                      Tecnologias Utilizadas:
 Linguagem: <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><br>
