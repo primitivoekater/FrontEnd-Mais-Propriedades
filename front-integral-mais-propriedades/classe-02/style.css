@@ -1,0 +1,96 @@
+body
+{
+ background: #E5E5E5;
+}
+.card
+{
+    margin: 20px auto;
+    max-width: 500px ;
+    box-sizing: border-box;
+    border-radius:  10px;
+    box-shadow: 10px 15px 30px -20px #D4DCF3;
+}
+img{
+    padding-bottom: 5px;
+}
+.card-light{
+    background: white;
+    color: #101439;
+}
+
+.card-dark{
+    background: #101439;
+    color: #FFFFFF
+}
+.quote{
+    padding: 80px 60px;
+    margin-bottom: 126px;
+}
+.quote p
+{
+ font-family: 'Merriweather', serif;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 38px;
+
+;
+}
+.quote span, .allert span
+{
+Font-family:  'Open Sans', sans-serif; 
+Font-style: Regular;
+Font-size : 14px;
+Line-height: 28px;
+Line-height: 147%;
+text-align: Left;
+Vertical-align: Top;
+Letter-spacing: 2px;
+}
+
+
+.card-dark{
+background: #101439;
+color: #FFFFFF
+}
+.allert {
+padding:60px;
+max-width: 460px;
+}
+.allert span{
+    margin-bottom: 10px;
+  }
+.allert h1{
+font-family: 'Merriweather', serif;
+Line-height: 32px;
+Line-height: 116%;
+Vertical-align: Top;
+margin-bottom: 13px;
+}
+
+.allert p{
+Font-family:  'Open Sans', sans-serif;
+Font-size: 18px;
+Line-height: 28px;
+Line-height: 114%;
+Vertical-align: Top;
+margin-bottom: 55px;
+}
+
+.allert a{
+    Font-family:  'Open Sans', sans-serif;
+    text-decoration: none;
+    background: white;
+    border-radius: 10px;
+    color: #101439;
+    padding: 20px 100px;
+
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 28px;
+letter-spacing: 0em;
+
+
+}

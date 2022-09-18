@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #E5E5E5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.card{
+    padding: 75px 70px 50px 70px;
+    background-color: #ffffffff;
+    max-width: 536px;
+    border-radius: 15px;
+    box-sizing: border-box;
+}
+h1{
+font-family: 'Merriweather', serif;
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 28px;
+padding-bottom: 20px;
+color: #000000;
+}
+p{
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+    color: #000000;  
+    padding-bottom: 20px;
+}
+span{
+font-family: 'Lato', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 26px;
+color: #494949;
+}
+.Categorias{
+margin-top: 50px;
+margin-bottom: 30px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 26px;
+}
+.itens{
+    display: inline-block;
+    background: #EFF5FF;
+    border-radius: 45px;
+    color: #2E29FF;
+    padding: 9px 20px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000000;
+    color:  #ffffff;
+    text-decoration:  none;
+    width: 141px;
+height: 48px;
+border-radius: 10px;
+font-family: 'Lato';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 26px;
+}

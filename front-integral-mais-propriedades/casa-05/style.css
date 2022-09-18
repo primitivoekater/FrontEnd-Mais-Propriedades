@@ -1,0 +1,133 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+ background-color: #FF7982;
+ padding: 72px 80px 0px 80px;
+ margin-bottom: 30px;
+}
+div{
+    background-color: #F4F8FD;
+}
+.dark_card {
+    background: rgba(9, 24, 63, 0.5);
+    border-radius: 10px;
+   padding: 58px;
+   text-align: center;
+   justify-content: center;
+   max-width: 645px;
+}
+.dark_card h1{
+    font-family: 'Merriweather', serif;
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 46px;
+display: flex;
+margin-bottom: 10px;
+justify-content: center;
+align-items: center;
+color: white;
+}
+.dark_card p{
+    font-family: 'Mulish', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+margin-bottom: 25px;
+max-width: 530px;
+
+}
+.btn{
+    font-family: 'Mulish', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+justify-content: center;
+background-color: #FF8E4F;
+color: white;
+max-width: 132px;
+padding: 9px 32px;
+border-radius: 50px;
+}
+.light_card {
+    background: #FFFFFF;
+    border-radius: 5px;
+   padding: 51px 0px 0px 0px;
+   text-align: center;
+   margin-bottom: 126px;
+   max-width: 500px;
+}
+.light_card h2{
+    font-family: 'Merriweather', serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 46px;
+    display: flex;
+    margin-bottom: 10px;
+    justify-content: center;
+    max-width: 270px;
+    align-items: center;
+    color: black;
+    margin-bottom: 26px;
+}
+.light_card p {
+        font-family: 'Mulish', sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    max-width: 380px;
+    margin-bottom: 40px;
+    
+}
+ .btn_claro{
+    font-family: 'Mulish', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    color: #09183F;
+    max-width: 132px;
+    background: #FFFFFF;
+    border: 1px solid #09183F;
+    box-sizing: border-box;
+    border-radius: 50px;
+    text-decoration:  none ;
+    padding: 9px 30px;
+    margin-bottom: 40px;
+}
+ img{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    max-width: 500px;
+    
+ }
+ .background{
+     background-image:url(assets/background.png);
+     padding: 55px 0px;
+     margin-bottom: 126;
+  
+ }
